@@ -11,12 +11,12 @@
 
 ## 2. Core Chrome Extension Development (Tier 1)
 
-- [ ] Setup `manifest.json` (V3)
-- [ ] Implement background script (Service Worker)
-- [ ] Implement content script for DOM observation & manipulation
-- [ ] Implement Popup UI (Master password, Profile selection)
-- [ ] Sub-feature: Password Encryption/Decryption logic (AES-256-GCM)
-- [ ] Sub-feature: MutationObserver for dynamic DOM handling
+- [x] Setup `manifest.json` (V3)
+- [x] Implement background script (Service Worker)
+- [x] Implement content script for DOM observation & manipulation
+- [x] Implement Popup UI (Master password, Profile selection)
+- [x] Sub-feature: Password Encryption/Decryption logic (AES-256-GCM)
+- [x] Sub-feature: MutationObserver for dynamic DOM handling
 
 ## 3. Data Relay API (Tier 2 - GAS)
 
